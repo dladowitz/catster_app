@@ -14,8 +14,6 @@ body {
     height: 400px;
     /*background: url('dusty_wide_dark_2.jpg') center center no-repeat scroll; Issue with asset pipeline*/
     background: url('http://bit.ly/1KwOwZH') center center no-repeat scroll;
-
-    
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
